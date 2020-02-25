@@ -1,6 +1,6 @@
 #Requires -RunAsAdministrator
 <#
-script to install packages from https://github.com/dxf/chocolatey, and creates a scheduled daily task to update software
+script to install packages from GitHub, and creates a scheduled daily task to update software
 #>
 mkdir c:\tempdl
 cd C:\tempdl
