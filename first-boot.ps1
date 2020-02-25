@@ -9,3 +9,5 @@ $telescript = $PSScriptRoot+"\block-telemetry.ps1"
 & $telescript
 $dailyupdate = $PSScriptRoot+"\choco-daily-update.ps1"
 & $dailyupdate
+$controlpanel = $PSScriptRoot+"\AAA.ps1"
+& $controlpanel
